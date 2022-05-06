@@ -1,0 +1,22 @@
+﻿facilityID,facility_name,telephone,address,city,region,country,latitude,longitude,email,class,description
+F100001,Korle-Bu BB,2.33303E+11,"Guggisberg Ave, Accra KB78",Korle Bu,Greater Accra,Ghana,5.535708,-0.233226,nbs@ghs.gh,4,Southern Area Blood Centre
+F100002,Komfo Anokye BB,2.33303E+11,"Guggisberg Ave, Accra KB78",Kumasi,Ashanti,Ghana,6.697779,-1.628958,kath@ghs.gh,4,Central Area Blood Centre
+F100003,Tamale Regional Hospital BB,2.33303E+11,"Salaga/yendi Rd, Tamale",Tamale,Northern,Ghana,9.393504,-0.822899,tgh@ghs.gh,4,Northern Area Blood Centre
+F100004,Tema General Hospital BB,2.33303E+11,"Hospital Rd, Tema",Tema,Greater Accra,Ghana,5.675511,-0.025457,garh@ghs.gh,3,
+F100005,GA Regional Hospital BB,2.33303E+11,"Castle Rd, Accra",Ridge,Greater Accra,Ghana,5.561914,-0.198763,lekma@ghs.gh,3,
+F100006,Lekma Hospital BB,2.33303E+11,Agblezaa - Manet Rd,Teshie,Greater Accra,Ghana,5.603028,-0.120144,lekmahospital@ghs.gh,2,
+F100007,Kaneshie Polyclinic BB,2.33303E+11,"HQF9+RJX, Palace St, Accra",Kaneshie,Greater Accra,Ghana,5.574581,-0.230826,kph@ghs.gh,1,
+F100008,Mamobi Hospital BB,2.33303E+11,"HRR2+J9M, Abavana St, Accra",Maamobi,Greater Accra,Ghana,5.591519,-0.199077,mh@ghs.gh,1,
+F100009,Western Regional Hospital BB,2.33303E+11,"J. De Graft-Johnson Ave, Takoradi",Sekondi-Takoradi,Western,Ghana,4.923846,-1.744524,th@ghs.gh,3,
+F100010,Eastern Regional Hospital BB,2.33303E+11,"Hospital Rd, Koforidua",Koforidua,Eastern,Ghana,6.097349,-0.256293,krh@ghs.gh,3,
+F100011,Bono Regional Hospital BB,2.33303E+11,"8MVP+W8F, N12, Sunyani",Sunyani,Bono,Ghana,7.344832,-2.314263,srh@ghs.gh,2,
+F100012,Central Regional Hospital BB,2.33303E+11,4PMM+FHG Cape Coast,Cape Coast,Central,Ghana,5.13369,-1.26605,ccrh@ghs.gh,3,
+F100013,Volta regional Hospital BB,2.33303E+11,"JF2M+WQM, Ho",Ho,Volta,Ghana,6.602257,0.484258,hrh@ghs.gh,3,
+F100014,Upper East Regional Hospital BB,2.33303E+11,"R44Q+M69, Zaare,, Bolgatanga",Bolgatanga,Upper East,Ghana,10.806612,-0.861931,brh@ghs.gh,2,
+F100015,Western North Regional Hospital,2.33303E+11,"FM4G+HWQ, Bibiani",Bibiani,Western North,Ghana,6.456575,-2.322575,wnrh@ghs.gh,1,
+F100016,Ahafo Regional Hospital,2.33303E+11,"Hospital Road, Goaso",Goaso,Ahafo,Ghana,6.801857,-2.514811,arh@ghs.gh,1,
+F100017,Oti Regional Hospital,2.33303E+11,"Hospital Road, Dambai",Dambai,Oti,Ghana,8.064244,0.186083,orh@ghs.gh,1,
+F100018,Upper West Regional Hospital,2.33303E+11,"Hospital Road, Wa",Wa,Upper West,Ghana,10.087104,-2.520087,uerh@ghs.gh,2,
+F100019,Bono East Regional Hospital,2.33303E+11,"Hospital Road, Techiman",Techiman,Bono East,Ghana,7.592158,-1.939274,berh@ghs.gh,2,
+F100020,North East Regional Hospital,2.33303E+11,"Hospital Road, Nalerigu",Nalerigu,North East,Ghana,10.519798,-0.365962,nerh@ghs.gh,1,
+F100021,Savannah Regional Hospital,2.33303E+11,"Hospital Road, Damongo",Damongo,Savannah,Ghana,9.062588,-1.799534,srh@ghs.gh,1,
