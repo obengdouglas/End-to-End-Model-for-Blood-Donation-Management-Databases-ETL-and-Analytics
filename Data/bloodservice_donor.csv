@@ -1,4 +1,4 @@
-﻿donorID,city,region,country,latitude,longitude,gender,birth_date,blood_type,recency_months,frequency_times,total_donation_amount_cc,time_months,donated_blood_observed_month
+﻿donorID,city,region,country,latitude,longitude,gender,birth_date,blood_type,recency_months,frequency_times,monetary_total_donation_amount_cc,time_months_since_first_donation,donated_blood_observed_month
 D000000001,Accra,Greater Accra,Ghana,5.588026,-0.18255,Male,16/11/1993,O+,2,50,12500,98,1
 D000000002,Accra,Greater Accra,Ghana,5.588026,-0.18255,Male,08/10/1995,B+,0,13,3250,28,1
 D000000003,Accra,Greater Accra,Ghana,5.588026,-0.18255,Female,25/11/1994,O+,1,16,4000,35,1
