@@ -1,4 +1,4 @@
-﻿Recency (months),Frequency (times),Monetary (c.c. blood),Time (months),"donated blood in observed month (y=1, n=0)"
+﻿recency_months,frequency_times,total_donation_amount_cc,time_months,donated_blood_observed_month
 ,,,,
 2,50,12500,98,1
 0,13,3250,28,1
