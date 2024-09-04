@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 =======
 # End-to-End-Model-for-Blood-Donation-Management-Databases-ETL-and-Analytics
 
->>>>>>> d18f36e05b3bfb31b2b2ba713928657d50d0cb0a
-<<<<<<< HEAD
 DSI-2022
 Africa DSI-2022
 Module 3 Twist - NLP
@@ -42,11 +40,3 @@ The deliverables for this project are:
 - Tableau: Further analysis of events using Tableau dashboard. The dashboard has been deployed at the following link https://public.tableau.com/app/profile/douglas.obeng4472/viz/ACLED-2021-West-Africa/Dashboard1?publish=yes. Switch between English and French and hover over maps to see labels in selected languages.
 
 All deliverables have been saved in the github repository https://github.com/obengdouglas/DSI-2022/tree/main/module3-nlp-twist. Data used for this project is also saved in the same github repo
-<<<<<<< HEAD
-=======
-# End-to-End-Model-for-Blood-Donation-Management-Databases-ETL-and-Analytics
->>>>>>> d56501dfd8e150c8b2a28c39104093a06b5a2e02
-=======
-
-End-to-End-Model-for-Blood-Donation-Management-Databases-ETL-and-Analytics
->>>>>>> d18f36e05b3bfb31b2b2ba713928657d50d0cb0a
